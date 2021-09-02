@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="beer_colors" />
+    <string-array name="lightRecomendation" />
+    <string-array name="darkRecomendation" />
+    <string-array name="brownRecomendation" />
+    <string-array name="amberRecomendation" />
+</resources>
